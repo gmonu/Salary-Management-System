@@ -1,4 +1,4 @@
-# Salary-Managemnet-System
+# Salary-Management-System
 Salary Management is a Java, MySQL based project, the project demonstrates the simplest way to manage employees and assign their salaries with all the required fields in a standard salary pay slip in this project the HR(head Human Resource) can add new employees or remove old ones and assign salaries to the employee or update their salaries with the credentials given by the HR the employee can login to the system and view his salary details and payments made to him by the accountant. The accountant can login as well and view all employees with the salaries and pay their salaries on the payment time. The accountant can also maintain the funds available for the company.
 
 
